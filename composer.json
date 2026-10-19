@@ -1,10 +1,11 @@
 {
   "name": "ssx/module-remove-elastic-suite-notification",
-  "version": "1.1.0",
-  "description": "N/A",
+  "version": "1.2.0",
+  "description": "Removes the Smile Elasticsuite upsell, telemetry and RSS feed notifications from the Magento admin.",
   "type": "magento2-module",
   "require": {
-    "magento/framework": "*"
+    "magento/framework": "*",
+    "smile/elasticsuite": "^2.12"
   },
   "license": [
     "MIT"

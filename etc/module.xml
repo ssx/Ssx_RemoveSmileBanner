@@ -4,6 +4,8 @@
     <module name="Ssx_RemoveElasticSuiteNotification">
         <sequence>
             <module name="Smile_ElasticsuiteCore"/>
+            <module name="Smile_ElasticsuiteTracker"/>
+            <module name="Smile_ElasticsuiteAdminNotification"/>
         </sequence>
     </module>
 </config>
